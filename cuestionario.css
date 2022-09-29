@@ -1,0 +1,210 @@
+.encabezado{
+    display: flex;
+    justify-content: center;
+
+}
+
+body{
+    background-color: #efefef;
+    overflow-x: hidden;
+}
+
+button{
+    border: 0px;
+    padding: 0%;
+
+}
+
+.Barra{
+    margin-top: 10px;
+    width: 1562px;
+    margin-left: -50px;
+
+}
+
+.final{
+    margin-top: 650px;
+    margin-bottom: -100px;
+    margin-left: -8px;
+    width: 1520px;
+}
+
+.tt3{
+    position: relative;
+    display: inline-block;
+    text-align: right;
+}
+
+.niv{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.plat{
+    position: absolute;
+    top: 25%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.act{
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.ali{
+    position: absolute;
+    top: 25%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.alum{
+    position: absolute;
+    top: 25%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.ins{
+    position: absolute;
+    top: 25%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.cont{
+    position: absolute;
+    top: 25%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.nom{
+    position: absolute;
+    top: 60%;
+    left: 22%;
+    transform: translate(-20%, -50%);
+    color: black;
+    font-family: 'Pragati Narrow', sans-serif;
+
+}
+
+.ape{
+    position: absolute;
+    top: 60%;
+    left: 38%;
+    transform: translate(-20%, -50%);
+    color: black;
+    font-family: 'Pragati Narrow', sans-serif;
+
+}
+
+.ema{
+    position: absolute;
+    top: 75%;
+    left: 22%;
+    transform: translate(-20%, -50%);
+    color: black;
+    font-family: 'Pragati Narrow', sans-serif;
+
+}
+
+.tel{
+    position: absolute;
+    top: 75%;
+    left: 38%;
+    transform: translate(-20%, -50%);
+    color: black;
+    font-family: 'Pragati Narrow', sans-serif;
+
+}
+
+.env{
+    position: absolute;
+    top: 125%;
+    left: 20.5%;
+    transform: translate(-20%, -50%);
+
+}
+
+.titulo{
+    font-size: 55px;
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-family: 'Pragati Narrow', sans-serif;
+
+}
+
+.tex{
+    position: absolute;
+    top: 102%;
+    left: 22.5%;
+    transform: translate(-10%, -50%);
+    color: black;
+    font-family: 'Pragati Narrow', sans-serif;
+
+}
+
+input{
+    height: 25px;
+}
+
+.msm{
+    height: 200px;
+    width: 405px;
+    
+}
+
+.map{
+    position: absolute;
+    top: 88.6%;
+    left: 55%;
+    transform: translate(-10%, -50%);
+
+}
+
+.mapcole{
+    height: 431px;
+    width: 463px;
+
+}
+
+.fond{
+    position: absolute;
+    top: 37%;
+    right: -1%;
+    transform: translate(-10%, -50%);
+
+}
+
+.fondblanco{
+    height: 60px;
+    width: 60px;
+
+}
+
+.blanca{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    top: 34%;
+    right: -2%;
+    transform: translate(-50%, -50%);
+    
+
+}

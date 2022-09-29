@@ -1,0 +1,327 @@
+.encabezado{
+    display: flex;
+    justify-content: center;
+
+}
+
+body{
+    background-color: #efefef;
+    overflow-x: hidden;
+}
+
+.Barra{
+    margin-top: 10px;
+    width: 1562px;
+    margin-left: -50px;
+
+}
+
+.final{
+    margin-top: 620px;
+    margin-bottom: -100px;
+    margin-left: -8px;
+    width: 1520px;
+}
+
+.tt3{
+    position: relative;
+    display: inline-block;
+    text-align: right;
+}
+
+.niv{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.plat{
+    position: absolute;
+    top: 25%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.act{
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.ali{
+    position: absolute;
+    top: 25%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.alum{
+    position: absolute;
+    top: 25%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.ins{
+    position: absolute;
+    top: 25%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.cont{
+    position: absolute;
+    top: 25%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+button{
+    border: 0px;
+    padding: 0%;
+
+}
+
+.abajo{
+    margin-top: -23px;
+    margin-left: -8px;
+    width: 1520px;
+    position: relative;
+}
+
+.Inicio{
+    background-color: #38235fc4;
+    width: 595px;
+    height: 265px;
+    margin-top: 0px;
+    border-radius: 28px 28px 28px 28px;
+    -webkit-border-radius: 28px 28px 28px 28px;
+    -moz-border-radius: 28px 28px 28px 28px;
+    display: flex;
+    justify-content: center;
+    margin-right: -8px;
+    border-top-right-radius: 0px 0px;
+    border-bottom-right-radius: 0px 0px;
+    padding-top: 40px;
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+    
+}
+
+.exel{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    transform: translate(-25%, 80%);
+    color: white;
+    margin-right: 0px;
+    font-family: 'Pragati Narrow', sans-serif;
+
+}
+
+.inic{
+    display: flex;
+    justify-content: right;
+}
+
+.raja{
+    position: absolute;
+    top: 26%;
+    left: 51.2%;
+    transform: translate(-50%, -50%);
+    width: 590px;
+}
+
+.linea{
+    position: absolute;
+    top: 80%;
+    left: 80.2%;
+    transform: translate(-50%, -50%);
+
+}
+
+.fac{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    top: 50%;
+    right: 95%;
+    transform: translate(-50%, -50%);
+
+}
+
+.you{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    top: 57%;
+    right: 95%;
+    transform: translate(-50%, -50%);
+
+}
+
+.inst{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    top: 64%;
+    right: 95%;
+    transform: translate(-50%, -50%);
+
+}
+
+.quien{
+    position: absolute;
+    top: 71%;
+    right: 40%;
+    transform: translate(-50%, -50%);
+    border: white 2px solid;
+    color: white;
+    border-top-right-radius: 50px 50px;
+    border-bottom-right-radius: 50px 50px;
+    border-top-left-radius: 50px 50px;
+    border-bottom-left-radius: 50px 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: absolute;
+    top: 66%;
+    right: 12%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.boton_tecnologia{
+    position: absolute;
+    top: 135%;
+    right: 23%;
+    transform: translate(-50%, -50%);
+
+
+}
+
+.boton_arte{
+    position: absolute;
+    top: 135%;
+    left: 18%;
+    transform: translate(-50%, -50%);
+
+}
+
+.boton_deportes{
+    position: absolute;
+    top: 135%;
+    right: -9%;
+    transform: translate(-50%, -50%);
+
+}
+
+button{
+    border: 0px;
+    padding: 0%;
+    border-radius: 4%;
+    background-color: transparent;
+}
+
+.txt3{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.tec{
+    background-color: rgba(41, 190, 227, 0.4);
+    color: white;
+    border-radius: 17px 17px 17px 17px;
+    -webkit-border-radius: 17px 17px 17px 17px;
+    -moz-border-radius: 17px 17px 17px 17px;
+    border-top-left-radius: 0px 0px;
+    border-top-right-radius: 0px 0px;
+    width: 346.3px;
+    padding: 30px;
+    position: absolute;
+    top: 71.7%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 55px;
+
+}
+
+.art{
+    background-color: rgba(41, 190, 227, 0.4);
+    color: white;
+    border-radius: 17px 17px 17px 17px;
+    -webkit-border-radius: 17px 17px 17px 17px;
+    -moz-border-radius: 17px 17px 17px 17px;
+    border-top-left-radius: 0px 0px;
+    border-top-right-radius: 0px 0px;
+    width: 346.3px;
+    padding: 30px;
+    position: absolute;
+    top: 71.7%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 55px;
+}
+
+.dep{
+    background-color: rgba(41, 190, 227, 0.4);
+    color: white;
+    border-radius: 17px 17px 17px 17px;
+    -webkit-border-radius: 17px 17px 17px 17px;
+    -moz-border-radius: 17px 17px 17px 17px;
+    border-top-left-radius: 0px 0px;
+    border-top-right-radius: 0px 0px;
+    width: 346.3px;
+    padding: 30px;
+    position: absolute;
+    top: 71.7%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 55px;
+}
+
+.mrg{
+    width: 406px;
+    height: 388px;
+    border-radius: 4%;
+
+}
+
+.murga{
+    width: 406px;
+    height: 388px;
+    border-radius: 4%;
+
+}
+
+.miss{
+    width: 406px;
+    height: 388px;
+    border-radius: 4%;
+
+}
+
+.blanca{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    top: 97%;
+    right: 96%;
+    transform: translate(-50%, -50%);
+    
+
+}

@@ -1,0 +1,164 @@
+body{
+    background-color: #EFEFEF;
+    overflow-x: hidden;
+}
+.encabezado{
+    display: flex;
+    justify-content: center;
+
+}
+
+.Barra{
+    margin-top: 10px;
+    width: 1600px;
+    margin-left: -50px;
+
+}
+
+.final{
+    margin-top: 2066px;
+    margin-bottom: -100px;
+    margin-left: -8px;
+    width: 1520px;
+}
+
+.tt3{
+    position: relative;
+    display: inline-block;
+    text-align: right;
+}
+
+.niv{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.act{
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.plat{
+    position: absolute;
+    top: 25%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.ali{
+    position: absolute;
+    top: 25%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.alum{
+    position: absolute;
+    top: 25%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.ins{
+    position: absolute;
+    top: 25%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.cont{
+    position: absolute;
+    top: 25%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+button{
+    border: 0px;
+    padding: 0%;
+}
+
+.ti--tulo{
+    font-family: 'Hammersmith One', sans-serif;
+    color: black;
+    font-size:50px;
+    text-align: center;
+}
+.tabla1{
+   position: absolute;
+   margin-left: 370px;
+}
+.dos{
+    margin-top: 700px;
+}
+.ti--tulo2{
+    font-family: 'Hammersmith One', sans-serif;
+    color: black;
+    font-size:50px;
+    text-align: center;
+}
+.in--fo1{
+    position: absolute;
+    width: 1010px;
+    height: 180px;
+    left: 206px;
+    top: 1107px;
+    font-family: 'Pragati Narrow';
+    font-size: 25px;
+    line-height: 130%;
+    text-align: center;
+    justify-content: center;
+    
+}
+.in--fo2{
+    position: absolute;
+    width: 1010px;
+    height: 180px;
+    left: 206px;
+    top: 1450px;
+    font-family: 'Pragati Narrow';
+    font-size: 25px;
+    line-height: 130%;
+    text-align: center;
+    font-weight: bold;
+}
+.tabla2{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 500px;
+ }
+.ti--tulo3{
+    font-family: 'Hammersmith One', sans-serif;
+    color: black;
+    font-size:50px;
+    text-align: center;
+    margin-top: 950px;
+}
+.in--fo3{
+    position: absolute;
+    width: 1010px;
+    height: 180px;
+    left: 206px;
+    font-family: 'Pragati Narrow';
+    font-size: 25px;
+    line-height: 130%;
+    text-align: center;
+    justify-content: center;
+}
+.final{
+    margin-top: 350px;
+}

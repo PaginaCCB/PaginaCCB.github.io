@@ -1,0 +1,187 @@
+.encabezado{
+    
+    display: flex;
+    justify-content: center;
+
+}
+
+body{
+    background-color: #efefef;
+    overflow-x: hidden;
+}
+
+.Barra{
+    margin-top: 10px;
+    width: 1562px;
+    margin-left: -47px;
+
+}
+
+.final{
+    margin-bottom: -100px;
+    margin-left: -18px;
+    width: 1562px;
+}
+
+.tt3{
+    position: relative;
+    display: inline-block;
+    text-align: right;
+}
+
+.niv{
+    position: absolute;
+    top: 25%;
+    left: 11%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.plat{
+    position: absolute;
+    top: 25%;
+    left: 26%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.act{
+    position: absolute;
+    top: 25%;
+    left: 42%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.ali{
+    position: absolute;
+    top: 25%;
+    left: 58%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.alum{
+    position: absolute;
+    top: 25%;
+    left: 68%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.ins{
+    position: absolute;
+    top: 25%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.cont{
+    position: absolute;
+    top: 25%;
+    left: 92%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+button{
+    border: 0px;
+    padding: 0%;
+}
+
+.wrap{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right,rgba(17, 128, 231, 0.404),rgba(14, 108, 231, 0.39)),url(Undokai.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: -10px;
+    margin-top: -22px;
+}
+
+.wrap-texto{
+    text-align: center;
+    width: 100%;
+}
+
+.wrap2{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right,rgba(210, 231, 17, 0.308),rgba(209, 231, 14, 0.308)),url(feriadeciencias.JPG);
+    background-size: cover;
+    background-position: center;
+    margin-left: -10px;
+    margin-top: -22px;
+}
+
+.wrap-texto2{
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+}
+
+.wrap3{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right,rgba(188, 17, 231, 0.158),rgba(188, 14, 231, 0.171)),url(interaulas.JPG);
+    background-size: cover;
+    background-position: center;
+    margin-left: -10px;
+    margin-top: -22px;
+}
+
+.wrap-texto3{
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+}
+
+.wrap4{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right,rgba(104, 213, 247, 0.438),rgba(104, 212, 245, 0.315)),url(semanadelacultura.JPG);
+    background-size: cover;
+    background-position: center;
+    margin-left: -10px;
+    margin-top: -22px;
+}
+
+.wrap-texto4{
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+}
+
+.wrap5{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right,rgba(217, 231, 17, 0.432),rgba(217, 231, 14, 0.315)),url(festivalgastronomico.JPG);
+    background-size: cover;
+    background-position: center;
+    margin-left: -10px;
+    margin-top: -22px;
+}
+
+.wrap-texto5{
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+}

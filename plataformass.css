@@ -1,0 +1,132 @@
+body{
+    background-color: #EFEFEF;
+    overflow-x: hidden;
+}
+.encabezado{
+    display: flex;
+    justify-content: center;
+
+}
+
+.Barra{
+    margin-top: 10px;
+    width: 1600px;
+    margin-left: -50px;
+
+}
+
+.final{
+    margin-top: 2066px;
+    margin-bottom: -100px;
+    margin-left: -8px;
+    width: 1520px;
+}
+
+.tt3{
+    position: relative;
+    display: inline-block;
+    text-align: right;
+}
+
+.niv{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.act{
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.plat{
+    position: absolute;
+    top: 25%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.ali{
+    position: absolute;
+    top: 25%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.alum{
+    position: absolute;
+    top: 25%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.ins{
+    position: absolute;
+    top: 25%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.cont{
+    position: absolute;
+    top: 25%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+button{
+    border: 0px;
+    padding: 0%;
+}
+
+.logo{
+position: absolute;
+width: 604px;
+height: 294px;
+left: 113px;
+top: 406px;
+}
+.logo--1{
+position: absolute;
+width: 604px;
+height: 294px;
+left: 800px;
+top: 406px;
+}
+.logo--2{
+position: absolute;
+width: 604px;
+height: 294px;
+left: 113px;
+top: 812px;
+}
+.logo--3{
+position: absolute;
+width: 604px;
+height: 294px;
+left: 800px;
+top: 812px;
+}
+.logo--4{
+position: absolute;
+width: 604px;
+height: 294px;
+left: 420px;
+top: 1218px;
+}
+.final{
+    margin-top: 1400px;
+}

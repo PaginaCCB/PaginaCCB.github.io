@@ -1,0 +1,303 @@
+.encabezado{
+    display: flex;
+    justify-content: center;
+
+}
+
+body{
+    background-color: #efefef;
+    overflow-x: hidden;
+
+}
+
+.Barra{
+    margin-top: 10px;
+    width: 1568px;
+    margin-left: -10px;
+
+}
+
+.final{
+    margin-top: 0px;
+    margin-bottom: -100px;
+    margin-left: 2px;
+    width: 1568px;
+    padding: -10%;
+
+}
+
+.tt3{
+    position: relative;
+    display: inline-block;
+    text-align: right;
+
+}
+
+.niv{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+
+}
+
+.plat{
+    position: absolute;
+    top: 25%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+
+}
+.act{
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+
+}
+.ali{
+    position: absolute;
+    top: 25%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+
+}
+
+.alum{
+    position: absolute;
+    top: 25%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+
+}
+.ins{
+    position: absolute;
+    top: 25%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+
+}
+
+.cont{
+    position: absolute;
+    top: 25%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+
+}
+
+button{
+    border: 0px;
+    padding: 0%;
+
+}
+
+.primero{
+    background-color:#38235FAD;
+    margin-top: -22px;
+    margin-left: -25px;
+    margin-right: -11px;
+    display: flex;
+    height: 580px;
+
+}
+
+.textos{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 870px;
+
+}
+
+.img1{
+    margin-top: -30px;
+    margin-bottom: -10px;
+    right: -170%;
+    margin-right: -11px;
+    margin-left: -11px;
+
+}
+
+.texto1{
+    height:100px;
+    padding-left: -110px;
+    margin-top: 150px;
+    margin-bottom: -90px;
+    font-family: 'Hammersmith One', sans-serif;
+    color: black;
+
+}
+
+.texto2{
+    text-align: center;
+    font-family: 'Hammersmith One', sans-serif;
+    color: black;
+
+}
+
+.Foto_detalle{
+    background-color: #38235FAD;
+    max-width: 600px;
+    padding: 15px;
+    border-radius: 50px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+
+}
+
+.segundo{
+    background-color:#96C5AFCC;
+    margin-left: -25px;
+    margin-right: -11px;
+    display: flex;
+
+}
+
+.textos1{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: -55px;
+
+}
+
+.img2{
+    margin-top: -25px;
+    margin-bottom: -10px;
+    right: -170%;
+    margin-right: -11px;
+    margin-left: -11px;
+
+}
+
+.texto1{
+    height:100px;
+    padding-left: -110px;
+    margin-top: 100px;
+    margin-bottom: -90px;
+
+}
+
+.texto2{
+    text-align: center;
+
+}
+
+.tercero{
+    background-color:#38235FAD;
+    margin-left: -25px;
+    margin-right: -11px;
+    display: flex;
+    margin-bottom: 0%;
+
+}
+
+.textos2{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: -55px;
+
+}
+
+.img4{
+    margin-top: -25px;
+    margin-bottom: -10px;
+    right: -170%;
+    margin-right: -11px;
+    margin-left: -11px;
+
+}
+
+.texto1{
+    height:100px;
+    padding-left: -110px;
+    margin-top: 100px;
+    margin-bottom: -90px;
+
+}
+
+.texto2{   
+    text-align: center;
+
+}
+
+.Foto_detalle1{
+    background-color:darkseagreen;
+    max-width: 600px;
+    padding: 15px;
+    border-radius: 50px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 748px;
+
+}
+
+.colocar1{
+    position: absolute;
+    top: 169%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+
+}
+
+.textos20{
+    text-align: center;
+    margin-top: 170px;
+    margin-left: 0px;
+    margin-right: 70px;
+
+}
+
+.textos30{
+    text-align: center;
+    margin-top: 170px;
+    margin-left: 0px;
+    margin-right: 70px;
+
+}
+
+.Foto_detalle1{
+    background-color: #38235FAD;
+    width: 700px;
+    padding: 15px;
+    border-radius: 50px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    position: absolute;
+    top: 13%;
+    left: 17.9%;
+    transform: translate(-50%, -50%);
+
+}
+
+.texto3{
+    text-align: center;
+    font-family: 'Hammersmith One', sans-serif;
+    color: black;
+
+}
+
+.texto5{
+    text-align: center;
+    font-family: 'Hammersmith One', sans-serif;
+    color: black;
+
+}

@@ -1,0 +1,334 @@
+body{
+    background-color: #EFEFEF;
+    overflow-x: hidden;
+}
+.encabezado{
+    display: flex;
+    justify-content: center;
+
+}
+
+.Barra{
+    margin-top: 10px;
+    width: 1600px;
+    margin-left: -50px;
+
+}
+
+.final{
+    margin-top: 2066px;
+    margin-bottom: -100px;
+    margin-left: -8px;
+    width: 1520px;
+}
+
+.tt3{
+    position: relative;
+    display: inline-block;
+    text-align: right;
+}
+
+.niv{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.act{
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.plat{
+    position: absolute;
+    top: 25%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.ali{
+    position: absolute;
+    top: 25%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.alum{
+    position: absolute;
+    top: 25%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.ins{
+    position: absolute;
+    top: 25%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.cont{
+    position: absolute;
+    top: 25%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+button{
+    border: 0px;
+    padding: 0%;
+}
+
+.titulo--1{
+    font-family: 'Hammersmith One', sans-serif;
+    color: white;
+    position: absolute;
+    padding-left: 40%;
+     top: 38%;
+     z-index:1;
+     margin-left: -70px;
+}
+.info--1{
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: xx-large;
+    text-align:justify;
+    color: white;
+    position: absolute;
+    padding-left: 6%;
+     top: 46%;
+     z-index:1;
+     text-align: justify;
+     width: 1000px;
+     height: 100px;
+     line-height: 35px;
+     margin-left: 150px;
+     font-size: 30px;
+}
+.foto--h1{
+    width: 1920px;
+    height: 500px;
+    margin-top: -25px;
+    margin-left: -10px;
+}
+.foto--h2{
+    width: 1920px;
+    height: 500px;
+    margin-top: -10px;
+    margin-left: -15px;
+}
+.titulo--2{
+    font-family: 'Hammersmith One', sans-serif;
+    color: white;
+    position: absolute;
+    padding-left: 41.5%;
+     top: 105%;
+     z-index:1;
+     margin-left: -95px;
+}
+.info--2{
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: xx-large;
+    text-align:justify;
+    color: white;
+    position: absolute;
+    padding-left: 6%;
+     top: 117%;
+     z-index:1;
+     text-align: justify;
+     width: 1000px;
+     height: 100px;
+     line-height: 35px;
+     margin-left: 150px;
+     font-size: 30px;
+}
+.titulo--3{
+    font-family: 'Hammersmith One', sans-serif;
+    color: white;
+    position: absolute;
+    padding-left: 43%;
+     top: 172%;
+     z-index:1;
+     margin-left: -10px;
+}
+.info--3{
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: xx-large;
+    text-align:justify;
+    color: white;
+    position: absolute;
+    padding-left: 6%;
+     top: 184%;
+     z-index:1;
+     text-align: justify;
+     width: 1000px;
+     height: 100px;
+     line-height: 35px;
+     margin-left: 150px;
+     font-size: 30px;
+}
+.titulo--4{
+    font-family: 'Hammersmith One', sans-serif;
+    color: white;
+    position: absolute;
+    padding-left: 41%;
+     top: 239%;
+     z-index:1;
+     margin-left: -7px;
+}
+.info--4{
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: xx-large;
+    text-align:justify;
+    color: white;
+    position: absolute;
+    padding-left: 6%;
+     top: 262%;
+     z-index:1;
+     text-align: justify;
+     width: 1000px;
+     height: 100px;
+     line-height: 35px;
+     margin-left: 150px;
+     font-size: 30px;
+}
+.titulo--5{
+    font-family: 'Hammersmith One', sans-serif;
+    color: white;
+    position: absolute;
+    padding-left: 41%;
+     top: 312%;
+     z-index:1;
+     margin-left: -10px;
+}
+.info--5{
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: xx-large;
+    text-align:justify;
+    color: white;
+    position: absolute;
+    padding-left: 6%;
+     top: 327%;
+     z-index:1;
+     text-align: justify;
+     width: 1000px;
+     height: 100px;
+     line-height: 35px;
+     margin-left: 150px;
+     font-size: 30px;
+}
+.titulo--6{
+    font-family: 'Hammersmith One', sans-serif;
+    color: white;
+    position: absolute;
+    padding-left: 47%;
+     top: 379%;
+     z-index:1;
+     margin-left: -10px;
+}
+.info--6{
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: xx-large;
+    text-align:justify;
+    color: white;
+    position: absolute;
+    padding-left: 6%;
+     top: 387%;
+     z-index:1;
+     text-align: justify;
+     width: 1000px;
+     height: 100px;
+     line-height: 35px;
+     margin-left: 150px;
+     font-size: 30px;
+}
+.titulo--7{
+    font-family: 'Hammersmith One', sans-serif;
+    color: white;
+    position: absolute;
+    padding-left: 45%;
+     top: 444%;
+     z-index:1;
+     margin-left: -10px;
+}
+.info--7{
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: xx-large;
+    text-align:justify;
+    color: white;
+    position: absolute;
+    padding-left: 6%;
+     top: 464%;
+     z-index:1;
+     text-align: justify;
+     width: 1000px;
+     height: 100px;
+     line-height: 35px;
+     margin-left: 150px;
+     font-size: 30px;
+}
+.titulo--8{
+    font-family: 'Hammersmith One', sans-serif;
+    color: white;
+    position: absolute;
+    padding-left: 38%;
+     top: 509%;
+     z-index:1;
+     margin-left: -10px;
+}
+.info--8{
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: xx-large;
+    text-align:justify;
+    color: white;
+    position: absolute;
+    padding-left: 6%;
+     top: 524%;
+     z-index:1;
+     text-align: justify;
+     width: 1000px;
+     height: 100px;
+     line-height: 35px;
+     margin-left: 150px;
+     font-size: 30px;
+}
+.titulo--9{
+    font-family: 'Hammersmith One', sans-serif;
+    color: white;
+    position: absolute;
+    padding-left: 38%;
+     top: 569%;
+     z-index:1;
+     margin-left: -10px;
+}
+.info--9{
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: xx-large;
+    text-align:justify;
+    color: white;
+    position: absolute;
+    padding-left: 6%;
+     top: 587%;
+     z-index:1;
+     text-align: justify;
+     width: 1000px;
+     height: 100px;
+     line-height: 35px;
+     margin-left: 150px;
+     font-size: 30px;
+}
+.final{
+    margin-top: -4px;
+}
